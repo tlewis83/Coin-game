@@ -1,6 +1,7 @@
 """
-Author: Tyee Lewis
-Date: October 26, 2025
+Coin Game
+Tyee Lewis
+October 26, 2025
 Purpose:
     This program simulates a simple coin toss game called "Match Coins."
     Two players each start with 20 coins and toss their coins each round.
