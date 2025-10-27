@@ -3,7 +3,7 @@ Coin Game
 Tyee Lewis
 October 26, 2025
 Purpose:
-    This program simulates a simple coin toss game called "Match Coins."
+    This program simulates a coin game.
     Two players each start with 20 coins and toss their coins each round.
     If the coins match, Player 1 wins a coin from Player 2.
     If the coins do not match, Player 2 wins a coin from Player 1.
